@@ -271,19 +271,19 @@ body {
   grid-gap: 30px;
   margin-top: 80px;
 }
-.portfolio .portfolio-content .card {
+.portfolio .portfolio-content .project {
   background-color: white;
 }
-.portfolio .portfolio-content .card img {
+.portfolio .portfolio-content .project img {
   max-width: 100%;
 }
-.portfolio .portfolio-content .card .info {
+.portfolio .portfolio-content .project .text {
   padding: 20px;
 }
-.portfolio .portfolio-content .card .info h3 {
+.portfolio .portfolio-content .project .text h3 {
   margin: 0;
 }
-.portfolio .portfolio-content .card .info p {
+.portfolio .portfolio-content .project .text p {
   color: #777;
   line-height: 1.6;
   margin-bottom: 0;
